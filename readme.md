@@ -1,4 +1,4 @@
-# Usability testing by instructions vs. real-word scenarios
+# Usability testing by instructions vs. real-world scenarios
 This project is part of the scientific paper *Comparison of usability testing by instructions and real-word scenarios* published in [Electrical Engineering and Informatics (EEI)](http://eei.fei.tuke.sk). The experiment was realized during May 2019.
 
 ## Prepared tasks and scenarios for experiment
