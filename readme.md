@@ -11,13 +11,13 @@ For the experiment mentioned above, the authors used 3 different applications:
 In these applications, usability testing was performed, in which the task and scenario testing approach was applied. Materials for both approaches have been created for each application (scenarios are in Slovak):
 
 1. Accounting system
-    - [Task-based approach](./acc-task.md)
+    - [Instruction-based approach](./acc-task.md)
     - [Scenario-based approach](./acc-scenario.md)
 2. Sport tracking application (titled *Makacs*)
-    - [Task-based approach](./makacs-task.md)
+    - [Instruction-based approach](./makacs-task.md)
     - [Scenario-based approach](./makacs-scenario.md)
 3. Private CMS system
-    - [Task-based approach](./cms-task.md)
+    - [Instruction-based approach](./cms-task.md)
     - [Scenario-based approach](./cms-scenario.md)
 
 ## Acknowledgements
