@@ -3,9 +3,6 @@
 Zoznám sa s aplikáciou a identifikuj jej funkcionalitu a účel.
 
 ### Úloha 1
-Zrealizuj objednávku/rezerváciu pre 2 osoby na najbližší víkend.
-
-### Úloha 2
 1. Prihlás sa na [http://localhost/admin](http://localhost/admin):
     - login: admin 
     - heslo: test
@@ -15,7 +12,7 @@ Zrealizuj objednávku/rezerváciu pre 2 osoby na najbližší víkend.
 5. Pridaj aspoň 2 fotografie.
 6. Over, či sa obsah správne zobrazuje pre koncového používateľa.
 
-### Úloha 3
+### Úloha 2
 1. Vytvor izbu "Superior".
 2. Nastav hlavnú fotografiu.
 3. Nahraj aj ostatné fotografie.
@@ -23,7 +20,7 @@ Zrealizuj objednávku/rezerváciu pre 2 osoby na najbližší víkend.
 5. Nahraj iné fotografie.
 6. Skontroluj, či sa všetko zobrazuje správne.
 
-### Úloha 4
+### Úloha 3
 1. Vytvor pobytový balíček &quot;Valentín&quot;.
 2. Pridaj všetky informácie a fotografie.
 3. Nastav balíček, aby sa zobrazoval ako 3. v poradí.
